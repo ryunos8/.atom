@@ -14,3 +14,5 @@
   "autocomplete-plus": {}
   "quick-highlight": {}
   minimap: {}
+  "symbols-tree-view":
+    autoToggle: true

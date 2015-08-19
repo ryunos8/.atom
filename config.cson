@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "3a2d66a0-e8c1-e529-eda6-c05fe43334d6"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+    tabLength: 4
+    showIndentGuide: true
+    showInvisibles: true
+  linter: {}
+  "find-and-replace": {}
+  "autocomplete-plus": {}
+  "quick-highlight": {}
+  minimap: {}

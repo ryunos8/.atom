@@ -13,7 +13,7 @@
     tabLength: 4
     showIndentGuide: true
     fontFamily: "\"源ノ角ゴシック Code JP\""
-    fontSize: 13
+    fontSize: 12
   linter: {}
   "find-and-replace": {}
   "autocomplete-plus": {}
